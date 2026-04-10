@@ -1,4 +1,3 @@
-[[小模型训练小组规划（小型科研实验平台）]]
 [[README/Project_Govern/README]]
 #  **说明**
 

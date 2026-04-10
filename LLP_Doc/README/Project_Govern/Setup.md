@@ -1,16 +1,26 @@
 # 环境搭建指南
 * **VPN 配置**
-	 * watt toolkit
+	 * [下载 - Watt Toolkit](https://steampp.net/download)
 	 * fast88sj.com
-	 * https://mihomoparty.app/#download
+	 * [Mihomo Party - 官网下载](https://mihomoparty.app/#download)
 * **Git使用教程**
-	 * 【给傻子的Git教程】 https://www.bilibili.com/video/BV1Hkr7YYEh8/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
-	 * 【【Git】如何给一个开源项目提交代码？Fork、PR一次搞懂！】 https://www.bilibili.com/video/BV1Qp4y1T797/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
-	 * 【人人都能看懂的Git教程！Git如何和 GitHub、GitLab 交互？团队如何用 Git 协作开发？小白也能看懂的Git教程！】 https://www.bilibili.com/video/BV1d6XVYqEuy/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
-	 * 【使用GitHub Desktop进行无命令代码管理 多人协作 教程 | GitHub汉化脚本推荐 | GitHub隐藏真实邮箱地址】 https://www.bilibili.com/video/BV1Enw8zMEk1/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
-	 * 【ssh密钥进行github身份验证，ssh公私密钥使用详解，github密钥配置与使用，git密钥使用详解，git入门教程】 https://www.bilibili.com/video/BV1dV411G77N/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
+	 * [Git - Install for Windows](https://git-scm.com/install/windows)
+	 * [Download GitHub Desktop](https://desktop.github.com/download/) 
+	 * 【Git教程】 https://www.bilibili.com/video/BV1Hkr7YYEh8/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
+	 * 【Fork、PR】 https://www.bilibili.com/video/BV1Qp4y1T797/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
+	 * 【Git 协作开发】 https://www.bilibili.com/video/BV1d6XVYqEuy/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
+	 * 【使用GitHub Desktop进行无命令代码管理，多人协作】 https://www.bilibili.com/video/BV1Enw8zMEk1/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
+	 * 【ssh公私密钥使用详解，github密钥配置与使用】 https://www.bilibili.com/video/BV1dV411G77N/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
 * **VSCode插件推荐及镜像源设置**
-* **obsdian设置**
+* **Obsdian指南**
 	 * [Download - Obsidian](https://obsidian.md/download)  
+	 * [Obsidian新手不完全指南](https://forum-zh.obsidian.md/t/topic/1628)
+	 * [Obsidian配置教程(仅供参考)](https://jason-effi-lab.notion.site/Obsidian-20698ac9981180229066ff67342e8232)
 * **github学生认证申请**
-	 * 【科技相关 | Github Copilot学生认证教程-2026版】 https://www.bilibili.com/video/BV1Abp1z6Eqs/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64 
+	 * [GitHub Education](https://github.com/education)
+	 * 【Github Copilot学生认证教程】 https://www.bilibili.com/video/BV1Abp1z6Eqs/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
+	 * **ps:**
+		 * watt toolkit加速并不影响最后的定位验证
+		 * 将学生证的封面和个人信息页拍照，让豆包将中文替换为英文，再将两张照片放到[Home - University of Chinese Academy of Sciences](https://english.ucas.ac.cn/)上截图，作为学籍证明提交，可大幅提高成功率
+* **Vibe Coding**
+* **Work Flow**

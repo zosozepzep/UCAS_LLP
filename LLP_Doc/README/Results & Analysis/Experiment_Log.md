@@ -1,5 +1,5 @@
 # 实验日志
-* **参数对比**：记录不同 temperature 或 max_length 下生成文本的差异。  
+* **参数对比**：记录不同 temperature 或 max_length 下生成文本的差异。  
 * **评估报告**：通过表格形式对比不同微调策略后的 BLEU 和 PPL 指标。
 
 ---

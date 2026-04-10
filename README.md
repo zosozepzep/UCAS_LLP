@@ -1,7 +1,7 @@
 # UCAS LLP - 小语言模型平台
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
+[![Python|86](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![Project](https://img.shields.io/badge/project-12周科创计划-orange.svg)]()
 
 > 中国科学院大学（UCAS）小语言模型（Small LLM）研究项目 - 从零构建可运行的文本生成与评估平台
@@ -135,7 +135,7 @@ UCAS_LLP/
    python flask_hello.py
    ```
 
-详细环境配置请参考 [Setup.md](LLP_Doc/README/Project_Govern/Setup.md)
+详细环境配置请参考 [Setup.md]( LLP_Doc/README/Project_Govern/Setup.md)
 
 ---
 
@@ -198,4 +198,4 @@ UCAS_LLP/
 
 ---
 
-> ** motto: 先做小模型可运行系统 → 加数据与指标对比 → 前后端整合 → 可视化展示**
+> **motto: 先做小模型可运行系统 → 加数据与指标对比 → 前后端整合 → 可视化展示**

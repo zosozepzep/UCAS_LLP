@@ -1,8 +1,8 @@
 # 环境搭建指南
-* **VPN 配置**
- * watt toolkit
- * fast88sj.com
- * https://mihomoparty.app/#download
+- *VPN 配置**
+ -  watt toolkit
+ - fast88sj.com
+ - https://mihomoparty.app/#download
 * **Git使用教程**
  * 【给傻子的Git教程】 https://www.bilibili.com/video/BV1Hkr7YYEh8/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
  * 【【Git】如何给一个开源项目提交代码？Fork、PR一次搞懂！】 https://www.bilibili.com/video/BV1Qp4y1T797/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64

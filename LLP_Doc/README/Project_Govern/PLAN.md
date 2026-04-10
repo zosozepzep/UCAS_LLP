@@ -1,5 +1,5 @@
 [[小模型训练小组规划（小型科研实验平台）]]
-[[README]]
+[[README/Project_Govern/README]]
 #  **说明**
 
 - 团队角色：

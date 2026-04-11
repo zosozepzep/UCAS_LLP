@@ -1,9 +1,9 @@
 # 环境搭建指南
 * **VPN 配置**
-	 * [下载 - Watt Toolkit](https://steampp.net/download)
+	 * [Watt Toolkit](https://steampp.net/download)
 	 * fast88sj.com
 	 * [iKuuuVPN](https://ikuuu.de/)
-	 * [Mihomo Party - 官网下载](https://mihomoparty.app/#download)
+	 * [Mihomo Party(Clash)](https://mihomoparty.app/#download)
 * **Git使用教程**
 	 * [Git - Install for Windows](https://git-scm.com/install/windows)
 	 * [Download GitHub Desktop](https://desktop.github.com/download/) 

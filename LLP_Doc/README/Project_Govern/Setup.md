@@ -6,6 +6,7 @@
 * **Git使用教程**
 	 * [Git - Install for Windows](https://git-scm.com/install/windows)
 	 * [Download GitHub Desktop](https://desktop.github.com/download/) 
+	 * [GitHub Docs(官方教程)](https://docs.github.com/zh) 
 	 * 【Git教程】 https://www.bilibili.com/video/BV1Hkr7YYEh8/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
 	 * 【Fork、PR】 https://www.bilibili.com/video/BV1Qp4y1T797/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64
 	 * 【Git 协作开发】 https://www.bilibili.com/video/BV1d6XVYqEuy/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64

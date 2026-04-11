@@ -1,6 +1,6 @@
 LLP_Doc/.obsidian/workspace.json
 # 编辑器配置
-LLP_Doc/.obsidian/workspace.json
+LLP_Doc/.obsidian/workspaces.json
 LLP_Doc/.obsidian/appearance.json
 # 系统文件
 .DS_Store
@@ -22,3 +22,4 @@ LLP_Doc/.obsidian/backlink-cache.json
 LLP_Doc/.claude/
 LLP_Doc/copilot/
 LLP_Doc/.obsidian/plugins/
+LLP_Doc/.trash/

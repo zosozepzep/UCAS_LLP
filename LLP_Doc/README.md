@@ -23,10 +23,11 @@
     
 - **前端组 (F1, F2)**：Streamlit 非常适合 Vibe Coding。可以描述 UI 布局，让 AI 快速产出 `input_output_demo.py`。注意保持 UI 风格的统一，避免 AI 每一页都生成不同的配色。建议使用合适的skill或plugin。
     
-- **评估组 (E1, E2)**：BLEU 和 PPL 的计算逻辑很固定，适合 AI 生成。但要注意数据集格式的对齐，确保 AI 生成的 `bleu_test.py` 能正确读取`cleaned_dataset.json`。
+- **评估组 (E1, E2)**：BLEU 和 PPL 的计算逻辑很固定，适合 AI 生成。但要注意数据集格式的对齐，确保 AI 生成的 `bleu_test.py` 能正确读取`cleaned_dataset.json`
 
 ---
 
+## 3.注意事项
 
 - **版本失控风险**：AI 有时会为了解决一个小 Bug 而重构整个文件的逻辑。**必须严守 Git 规范**。在尝试大规模 AI 改写前，先开一个新分支（Branch），防止把跑通的 Demo 改废了。
     

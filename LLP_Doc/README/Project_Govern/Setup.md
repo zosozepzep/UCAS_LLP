@@ -25,6 +25,7 @@
 		 * watt toolkit加速并不影响最后的定位验证
 		 * 将学生证的封面和个人信息页拍照，让豆包将中文替换为英文，再将两张照片放到[Home - University of Chinese Academy of Sciences](https://english.ucas.ac.cn/)上截图，作为学籍证明提交，可大幅提高成功率
 * **Vibe Coding**
+	* [Node.js](https://nodejs.org/zh-cn/download)
 	* [cc-switch.](https://github.com/farion1231/cc-switch) 
 	* [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 	* [claude-howto](https://github.com/luongnv89/claude-howto)

@@ -2,7 +2,6 @@ LLP_Doc/.obsidian/workspace.json
 # 编辑器配置
 LLP_Doc/.obsidian/workspace.json
 LLP_Doc/.obsidian/appearance.json
-LLP_Doc/.obsidian/community-plugins.json.bak
 # 系统文件
 .DS_Store
 Thumbs.db
@@ -22,5 +21,4 @@ LLP_Doc/.obsidian/backlink-cache.json
 # 添加你的个性化规则
 LLP_Doc/.claude/
 LLP_Doc/copilot/
-LLP_Doc/.obsidian/community-plugins.json
 LLP_Doc/.obsidian/plugins/obsidian-git

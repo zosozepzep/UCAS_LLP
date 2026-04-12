@@ -1,3 +1,24 @@
+# 项目结构
+* UCAS_LLP/    
+	* backend/ # 后端（接口层）  
+		* app.py  
+		* model_api.py  
+		* experiment.py  
+		* config.py    
+	* frontend/ # 前端（界面层）  
+		* app.py  
+	* evaluation/ # 评估模块  
+		* bleu.py  
+		* ppl.py  
+		* metrics.py   
+	* data/ # 数据  
+		* test_cases.json  
+		* results.json   
+	* models/ # 模型配置（不放模型本体）  
+		* model_config.json  
+	* LLP_Docs/ # 文档  
+	* requirements.txt  
+	* run.sh
 #  **一、T1小组要求如下**
 * **规范化引用**：所有引用的外部资源必须标注来源。  
 * **结果导向**：每周总结（Week_Summary）必须包含“本周产出文件清单”（如 lora_config.py 或 train_dataset.json）。  

@@ -1,12 +1,12 @@
 import requests
-def generate(prompt):
+def generate(prompt, temperature):
     url = "http://localhost:11434/api/generate"
     data = {
         "model": "gemma4:e2b",
         "prompt": prompt,
         "stream": False,
         "options": {
-            "temperature": 0.7,
+            "temperature": temperature,
             "top_p": 0.9,
             "top_k": 40,
             "repeat_penalty": 1.1,
@@ -16,4 +16,4 @@ def generate(prompt):
     res = requests.post(url, json=data)
     return res.json()["response"]
 #example
-print(generate("what is AI?"))
+#print(generate("what is AI?", temperature=0.7))

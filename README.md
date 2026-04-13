@@ -68,23 +68,30 @@ gantt
 
 * UCAS_LLP/    
 	* backend/ # 后端（接口层）  
-		* app.py  
-		* model_api.py  
-		* experiment.py  
-		* config.py    
+		* app.py/ # API入口  
+		* model_api.py/ # 模型调用  
+		* experiment.py/ # 实验逻辑 
+		* config.py/ # 配置（模型名、参数等）   
 	* frontend/ # 前端（界面层）  
-		* app.py  
+		* app.py/ # Streamlit主程序
+		* components/ # UI组件
 	* evaluation/ # 评估模块  
 		* bleu.py  
 		* ppl.py  
-		* metrics.py   
-	* data/ # 数据  
-		* test_cases.json  
-		* results.json   
+		* metrics.py
+		* visualize.py/ # 画图
+	* data/ # 数据
+		* raw/ # 原始数据
+		* processed/ # 处理后数据
+		* test_cases.json/ # 测试输入
+		* results/ # 实验结果（JSON/CSV）  
 	* models/ # 模型配置（不放模型本体）  
-		* model_config.json
-	* scripts/ # 实验脚本文件
-	* tests
+		* model_config.json/
+	* scripts/ # 自动化脚本
+		* run_experiments.py/ # 一键跑实验
+		* generate_plots.py/ # 自动画图
+	* tests/ # 测试
+		* test_model_api.py 
 	* LLP_Docs/ # 文档 
 		* README/ # 规范文档
 			* Engineering&DEV/ # 工程与开发文档
@@ -102,11 +109,12 @@ gantt
 		       * Results & Analysis/ # 结果与分析
 				* Evaluation.md/ # 评估报告
 				* Experiment_Log.md/ # 实验日志
-		* Weekly_meeting/ # 周会记录 
+		* Weekly_Reports/ # 周会记录 
 		* README.md
 		* .gitignore
-	* requirements.txt/ # 安装依赖  
-	* run.sh
+	* .gitignore
+	* requirements.txt/ # 依赖  
+	* run.sh/ # 一键启动
 	* README.md/ # 本文件
 
 ---

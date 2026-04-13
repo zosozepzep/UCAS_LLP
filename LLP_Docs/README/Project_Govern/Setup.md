@@ -43,4 +43,5 @@
 		* 3.如果电脑配置不足以运行e4b，请输入`ollama run gemma4:e2b`,我们的项目是基于这两个模型开展的。
 *  **frontend三件套（计科导也要用）
     * [HTML, CSS, JavaScript] https://zhuanlan.zhihu.com/p/526785618?share_code=8NBaKugDf23l&utm_psn=2027159371033912095
+        * 参考网站：https://developer.mozilla.org/
 * **Work Flow**

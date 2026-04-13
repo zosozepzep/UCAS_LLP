@@ -105,3 +105,20 @@
 - **Day 6**：产出 `api_frontend_test.py`（前后端联调脚本）。
     
 - **新增**：两人协作产出 `api_docs.md`（接口说明文档），供前端组参考。
+
+---
+# 四、每周讨论内容纪要：
+* Week1:
+	* 模型组：
+		* 确定使用gemma4:e2b和gemma4:e4b
+		* 完成了第一版demo:`model_api.py`,`temperature_experiment.py`
+		* 模型微调方向：
+			* 1.让gemma4输出更简洁
+			* 2.skill生成模型
+			* 3.AI Safety:让gemma4检测skill文件,判断可能存在的风险
+	* 数据组：
+		* 目前已确定做prompt优化和任务分析的数据集，进阶方向是lora微调和小型RAG系统。
+		* 数据来源：
+			* 1.人工编写
+			* 2.参考github开源数据集
+			* 3.与gpt，gemini，Claude等对话

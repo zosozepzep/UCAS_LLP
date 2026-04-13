@@ -8,11 +8,11 @@
 
 ---
 
-## 项目简介
+# 项目简介
 
-本项目旨在构建一个完整的小语言模型平台，支持模型推理、微调、评估和可视化展示。通过12周的系统学习与实践，团队将掌握从数据准备到前后端部署的全流程开发技能。
+  本项目旨在构建一个完整的小语言模型平台，支持模型推理、微调、评估和可视化展示。通过12周的系统学习与实践，团队将掌握从数据准备到前后端部署的全流程开发技能。
 
-### 核心功能
+## 核心功能
 
 - 文本生成：基于distilgpt2/TinyLLaMA/gemma4等轻量级模型的本地推理
 - 参数调节：支持 temperature、max_length等生成参数实时调整
@@ -20,8 +20,6 @@
 - 效果评估：BLEU 评分、困惑度（PPL）计算与可视化
 - 交互界面：Streamlit前端 + Flask/FastAPI后端
 - 实验记录：完整的实验数据保存与对比分析
-
----
 
 ## 团队架构
 
@@ -66,48 +64,63 @@ gantt
 
 ---
 
-## 仓库结构
+# 仓库结构
 
-```
-UCAS_LLP/
-├── LLP_Doc/                    # 项目文档主目录
-│   ├── README/                 # 规范文档
-│   │   ├── Engineering&DEV/    # 工程与开发文档
-│   │   │   ├── Changelog.md    # 更新日志
-│   │   │   ├── Resource_Center.md  # 资源池
-│   │   │   └── Module_Docs/    # 模块文档
-│   │   │       ├── API_Spec.md     # API 规范
-│   │   │       ├── Data_Standard.md    # 数据标准
-│   │   │       └── Inference_Guide.md  # 推理指南
-│   │   ├── Project_Govern/     # 项目管理
-│   │   │   ├── README.md       # 团队分工总表
-│   │   │   ├── PLAN.md         # 12周详细计划
-│   │   │   ├── Setup.md        # 环境配置指南
-│   │   │   └── TEAMS.md        # 团队信息
-│   │   └── Results & Analysis/ # 结果与分析
-│   │       ├── Evaluation.md   # 评估报告
-│   │       └── Experiment_Log.md   # 实验日志
-│   ├── Weekly_meeting/         # 周会记录
-│   │   └── Week 1.md           # 第1周会议记录
-│   ├── .claude/                # Claude 配置
-│   ├── .obsidian/              # Obsidian 配置
-│   └── README.md               # T1 小组规范
-├── .gitignore
-└── README.md                   # 本文件
-```
+* UCAS_LLP/    
+	* backend/ # 后端（接口层）  
+		* app.py  
+		* model_api.py  
+		* experiment.py  
+		* config.py    
+	* frontend/ # 前端（界面层）  
+		* app.py  
+	* evaluation/ # 评估模块  
+		* bleu.py  
+		* ppl.py  
+		* metrics.py   
+	* data/ # 数据  
+		* test_cases.json  
+		* results.json   
+	* models/ # 模型配置（不放模型本体）  
+		* model_config.json
+	* scripts/ # 实验脚本文件
+	* tests
+	* LLP_Docs/ # 文档 
+		* README/ # 规范文档
+			* Engineering&DEV/ # 工程与开发文档
+				* Changelog.md/ # 更新日志
+				* Resource_Center.md/ # 资源池
+				* Module_Docs/ # 模块文档
+					* API_Spec.md/ # API规范
+					* Data_Standard.md/ # 数据标准
+					* Inference_Guide.md/ # 推理指南
+			   * Project_Govern/ # 项目管理
+				* README.md/ # 团队分工总表
+				* PLAN.md/ # 12周详细计划
+				* Setup.md/ # 环境配置指南
+				* TEAMS.md/ # 团队信息
+		       * Results & Analysis/ # 结果与分析
+				* Evaluation.md/ # 评估报告
+				* Experiment_Log.md/ # 实验日志
+		* Weekly_meeting/ # 周会记录 
+		* README.md
+		* .gitignore
+	* requirements.txt/ # 安装依赖  
+	* run.sh
+	* README.md/ # 本文件
 
 ---
 
-## 快速开始
+# 快速开始
 
-### 环境要求
+## 环境要求
 
 - Python 3.8+
 - Git
 - 稳定的海外网络访问（用于 Hugging Face）
 - Gmail 账号（用于 Hugging Face 登录）
 
-### 安装步骤
+## 安装步骤
 
 1. **克隆仓库**
    ```bash
@@ -137,7 +150,7 @@ UCAS_LLP/
 
 ---
 
-## 开发规范
+# 开发规范
 
 ### Git 提交规范
 
@@ -158,7 +171,7 @@ UCAS_LLP/
 
 ---
 
-## 核心产出物
+# 核心产出物
 
 | 阶段 | 关键文件 | 说明 |
 |------|----------|------|
@@ -170,7 +183,7 @@ UCAS_LLP/
 
 ---
 
-## 资源链接
+# 资源链接
 
 - [Hugging Face 模型库](https://huggingface.co/models)
 - [Transformers 文档](https://huggingface.co/docs/transformers)
@@ -182,13 +195,13 @@ UCAS_LLP/
 
 ---
 
-## 许可证
+# 许可证
 
 [MIT](LICENSE)
 
 ---
 
-## 联系方式
+# 联系方式
 
 - 项目负责人：T1 小组
 - 所属机构：中国科学院大学（UCAS）

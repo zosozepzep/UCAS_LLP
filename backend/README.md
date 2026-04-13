@@ -5,5 +5,7 @@
 - 已拉取模型：
   ollama run gemma4:e4b
 ## 运行方式
-```bash
-python model_api.py
+`bash python model_api.py`
+
+# Log
+[[2026-04-14]]

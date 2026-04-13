@@ -7,7 +7,8 @@ def run_experiment(prompt):
         results[temp] = response
     return results
 # Example
-experiment_results = run_experiment("What is the meaning of life?")
-for temp, result in experiment_results.items():
-    print(f"\n----------------- Temperature: {temp} -----------------")
-    print(result)
+if __name__ == "__main__":
+    experiment_results = run_experiment("What is the meaning of life?")
+    for temp, result in experiment_results.items():
+        print(f"\n----------------- Temperature: {temp} -----------------")
+        print(result)

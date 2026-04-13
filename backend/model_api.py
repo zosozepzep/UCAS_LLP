@@ -10,10 +10,13 @@ def generate(prompt, temperature):
             "top_p": 0.9,
             "top_k": 40,
             "repeat_penalty": 1.1,
-            "num_predict": 1000,
+            "num_predict": 800,
         }
     }
     res = requests.post(url, json=data)
     return res.json()["response"]
-#example
-#print(generate("what is AI?", temperature=0.7))
+
+if __name__ == "__main__":
+    prompt = "What is the meaning of life?"
+    response = generate(prompt, temperature=0.7)
+    print(response)

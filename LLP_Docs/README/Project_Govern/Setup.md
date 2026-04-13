@@ -41,4 +41,6 @@
 		* 1.打开Ollama，进入Settings，更改Model Location至D:\中的某个文件夹。
 		* 2.打开CMD，在窗口中输入`ollama run gemma4:e4b`，等待安装成功。
 		* 3.如果电脑配置不足以运行e4b，请输入`ollama run gemma4:e2b`,我们的项目是基于这两个模型开展的。
+*  **frontend三件套（计科导也要用）
+    * [HTML, CSS, JavaScript] https://zhuanlan.zhihu.com/p/526785618?share_code=8NBaKugDf23l&utm_psn=2027159371033912095
 * **Work Flow**

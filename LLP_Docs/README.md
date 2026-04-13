@@ -1,6 +1,6 @@
 # 开发者文档结构
-   * LLP_Docs/ # 文档 
-   * README/ # 规范文档
+* LLP_Docs/ # 文档 
+	* README/ # 规范文档
 		* Engineering&DEV/ # 工程与开发文档
 			* Changelog.md/ # 更新日志
 			* Resource_Center.md/ # 资源池
@@ -16,7 +16,7 @@
 	    * Results & Analysis/ # 结果与分析
 			* Evaluation.md/ # 评估报告
 			* Experiment_Log.md/ # 实验日志
-   * Weekly_meeting/ # 周会记录 
+	* Weekly_meeting/ # 周会记录 
 	* README.md/ # 本文件
 	* .gitignore
 #  **一、T1小组要求如下**

@@ -14,18 +14,16 @@
 
 ### 核心功能
 
-- 文本生成：基于 distilgpt2 / TinyLLaMA 等轻量级模型的本地推理
-- 参数调节：支持 temperature、max_length 等生成参数实时调整
-- 模型微调：基于 LoRA 技术的高效参数微调
+- 文本生成：基于distilgpt2/TinyLLaMA/gemma4等轻量级模型的本地推理
+- 参数调节：支持 temperature、max_length等生成参数实时调整
+- 模型微调：基于LoRA技术的高效参数微调
 - 效果评估：BLEU 评分、困惑度（PPL）计算与可视化
-- 交互界面：Streamlit 前端 + Flask/FastAPI 后端
+- 交互界面：Streamlit前端 + Flask/FastAPI后端
 - 实验记录：完整的实验数据保存与对比分析
 
 ---
 
 ## 团队架构
-
-采用 **"垂直分工 + 水平协作"** 模式，确保各环节产出物可对接：
 
 | 组别 | 人数 | 核心职责 | 技术栈 |
 |------|------|----------|--------|

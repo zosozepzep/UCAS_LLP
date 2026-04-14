@@ -37,6 +37,12 @@
 	* **安装** :[Download Ollama on Windows](https://ollama.com/download/windows)
 		* ps:默认安装路径为C:\Users\，以下是更改安装路径教程:
 		  例如，你的Ollama安装包在D:\Ollama中，打开该文件夹，在资源管理器上方的文件路径中输入cmd并打开，在窗口中输入`OllamaSetup.exe /DIR=D:\Ollama`,即可将Ollama安装在D:\Ollama\中。
+		  （dby注：D盘需要管理员权限，可尝试：按Win后搜索cmd，右键点击“以管理员身份运行”，再输入：
+			```shell
+			D:
+			cd D:\Ollama
+			```
+		  这样就以管理员身份进入了D盘 ）
 	* **模型部署**: 
 		* 1.打开Ollama，进入Settings，更改Model Location至D:\中的某个文件夹。
 		* 2.打开CMD，在窗口中输入`ollama run gemma4:e4b`，等待安装成功。

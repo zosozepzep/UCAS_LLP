@@ -69,7 +69,7 @@ gantt
 * UCAS_LLP/    
 	* backend/ # 后端（接口层）  
 		* app.py/ # API入口  
-		* model_api.py/ # 模型调用  
+		* function.py/ # 模块集成文件，包括api接口 
 		* experiment.py/ # 实验逻辑 
 		* config.py/ # 配置（模型名、参数等）   
 	* frontend/ # 前端（界面层）  

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "exp1",
+    "prompt": "介绍人工智能",
+    "params": {
+      "temperature": 0.2,
+      "top_p": 0.9,
+      "top_k": 40,
+      "repeat_penalty": 1.0,
+      "num_predict": 500
+    }
+  },
+  {
+    "name": "exp2",
+    "prompt": "介绍人工智能",
+    "params": {
+      "temperature": 1.2,
+      "top_p": 0.95,
+      "top_k": 80,
+      "repeat_penalty": 1.1,
+      "num_predict": 500
+    }
+  }
+]

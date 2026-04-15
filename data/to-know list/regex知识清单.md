@@ -1,3 +1,10 @@
+# Regex(re模块) 核心知识清单
+
+## 目标：掌握正则表达式的使用，解决文本处理问题。
+
+
+---
+
 ## 一、Regex 是什么？
 
 **Regex = Regular Expression（正则表达式）** 
@@ -159,6 +166,7 @@
 
 ## 十二、Python 示例（re 库）
 
+(标准库无需install)
 ```python
 import re
 # 匹配手机号

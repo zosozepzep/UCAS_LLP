@@ -1,3 +1,9 @@
+# JSON 核心知识清单
+
+## 目标：掌握 JSON 数据的解析、生成、验证等操作。
+
+---
+
 ## 一、JSON 是什么？
 
 **JSON（JavaScript Object Notation）** 是一种**轻量级、纯文本**的数据交换格式，**独立于编程语言**，几乎所有主流语言（Python、Java、JS、Go 等）都支持解析和生成 JSON。

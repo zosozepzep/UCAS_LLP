@@ -25,14 +25,20 @@
 		 * watt toolkit加速并不影响最后的定位验证。
 		 * 将学生证的封面和个人信息页拍照，让豆包将中文替换为英文，再将两张照片放到[Home - University of Chinese Academy of Sciences](https://english.ucas.ac.cn/)上截图，作为学籍证明提交，可大幅提高成功率。
 * **Vibe Coding**
-	* [Node.js](https://nodejs.org/zh-cn/download)
-	* [cc-switch.](https://github.com/farion1231/cc-switch) 
-	* [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-	* [claude-howto](https://github.com/luongnv89/claude-howto)
-	* [claudecode安装教程](https://www.bilibili.com/video/BV19vc5zUEeQ/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64)
-	* [硅基流动 SiliconFlow](https://siliconflow.cn/)
-	* [百炼](https://www.aliyun.com/product/bailian)
-	* [Official Claude Code Plugins.](https://github.com/anthropics/claude-plugins-official)
+    * **环境搭建**
+    	* [Node.js](https://nodejs.org/zh-cn/download)
+    	* [cc-switch.](https://github.com/farion1231/cc-switch) 
+	* **Claudecode**
+    	* [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+    	* [claude-howto](https://github.com/luongnv89/claude-howto)
+    	* [claudecode安装教程](https://www.bilibili.com/video/BV19vc5zUEeQ/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64)
+    	* [Official Claude Code Plugins.](https://github.com/anthropics/claude-plugins-official)
+  	* **Codex**
+    	* Windows端尚未适配成熟，建议安装wsl，在wsl中使用Codex;或者安装以后在Claudecode中安装codex-plugin-cc，实现两个Agent合作工作。
+	* **API平台**
+    	* [硅基流动 SiliconFlow](https://siliconflow.cn/)
+    	* [百炼](https://www.aliyun.com/product/bailian)
+    	* [Ollama Cloud](https://docs.ollama.com/api/introduction)
 * **Ollama**食用指南
 	* **安装** :[Download Ollama on Windows](https://ollama.com/download/windows)
 		* ps:默认安装路径为C:\Users\，以下是更改安装路径教程:

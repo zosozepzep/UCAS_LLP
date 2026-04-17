@@ -2,7 +2,7 @@ import requests
 def generate(prompt, temperature):
     url = "http://localhost:11434/api/generate"
     data = {
-        "model": "gemma4:e2b",
+        "model": "gemma4:e4b",
         "prompt": prompt,
         "stream": False,
         "options": {

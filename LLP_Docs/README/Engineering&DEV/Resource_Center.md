@@ -3,6 +3,7 @@
 ---
 - [Hugging Face 模型库](https://huggingface.co/models)
 - [Transformers 文档](https://huggingface.co/docs/transformers)
+	-  [The pipeline function](https://www.youtube.com/watch?v=tiZFewofSLM)
 - [PEFT/LoRA 教程](https://huggingface.co/docs/peft)
 - [Streamlit 文档](https://docs.streamlit.io/)
 - [Flask 文档](https://flask.palletsprojects.com/)

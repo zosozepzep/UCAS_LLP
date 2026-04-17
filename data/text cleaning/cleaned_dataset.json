@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "D1",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D2",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D3",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D4",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "command"
+  },
+  {
+    "id": "D5",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D6",
+    "raw_prompt": "\t如何使用python进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D7",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "request"
+  },
+  {
+    "id": "D8",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "command"
+  },
+  {
+    "id": "D9",
+    "raw_prompt": "???编写一个简单的web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "instruction"
+  },
+  {
+    "id": "D10",
+    "raw_prompt": "???解释什么是api???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "query"
+  },
+  {
+    "id": "D11",
+    "raw_prompt": "   如何使用Git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D12",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D13",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D14",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D15",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D16",
+    "raw_prompt": "   如何使用git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D17",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "query"
+  },
+  {
+    "id": "D18",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D19",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D20",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D21",
+    "raw_prompt": "\t如何使用Git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D22",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D23",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D24",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D25",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "question"
+  },
+  {
+    "id": "D26",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D27",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D28",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "request"
+  },
+  {
+    "id": "D29",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D30",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D31",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D32",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D33",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D34",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D35",
+    "raw_prompt": "  如何使用git进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D36",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D37",
+    "raw_prompt": "如何使用Git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D38",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D39",
+    "raw_prompt": "编写一个简单的Web服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D40",
+    "raw_prompt": "!!如何使用Python进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "instruction"
+  },
+  {
+    "id": "D41",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D42",
+    "raw_prompt": "!!如何使用python进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "request"
+  },
+  {
+    "id": "D43",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D44",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D45",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "request"
+  },
+  {
+    "id": "D46",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "query"
+  },
+  {
+    "id": "D47",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D48",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D49",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "command"
+  },
+  {
+    "id": "D50",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "request"
+  },
+  {
+    "id": "D51",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D52",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D53",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D54",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D55",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D56",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D57",
+    "raw_prompt": "\n解释什么是api\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D58",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D59",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D60",
+    "raw_prompt": "\n如何使用python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D61",
+    "raw_prompt": "???编写一个简单的web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "request"
+  },
+  {
+    "id": "D62",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D63",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D64",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "command"
+  },
+  {
+    "id": "D65",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "instruction"
+  },
+  {
+    "id": "D66",
+    "raw_prompt": "   如何使用python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "query"
+  },
+  {
+    "id": "D67",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D68",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D69",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "command"
+  },
+  {
+    "id": "D70",
+    "raw_prompt": "   编写一个简单的web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D71",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D72",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "question"
+  },
+  {
+    "id": "D73",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D74",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D75",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D76",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "command"
+  },
+  {
+    "id": "D77",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "instruction"
+  },
+  {
+    "id": "D78",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D79",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D80",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D81",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "question"
+  },
+  {
+    "id": "D82",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D83",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "request"
+  },
+  {
+    "id": "D84",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "query"
+  },
+  {
+    "id": "D85",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D86",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D87",
+    "raw_prompt": "\t解释什么是api\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D88",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "question"
+  },
+  {
+    "id": "D89",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D90",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D91",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D92",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D93",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D94",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D95",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D96",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D97",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "instruction"
+  },
+  {
+    "id": "D98",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D99",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D100",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "command"
+  },
+  {
+    "id": "D101",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D102",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D103",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D104",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D105",
+    "raw_prompt": "\t如何使用PYTHON进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D106",
+    "raw_prompt": "  解释什么是api  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D107",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D108",
+    "raw_prompt": "   如何使用python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D109",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D110",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D111",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D112",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D113",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D114",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D115",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D116",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D117",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D118",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D119",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "instruction"
+  },
+  {
+    "id": "D120",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D121",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D122",
+    "raw_prompt": "\t如何使用Git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D123",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D124",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D125",
+    "raw_prompt": "!!编写一个简单的web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "query"
+  },
+  {
+    "id": "D126",
+    "raw_prompt": "!!解释什么是api!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "request"
+  },
+  {
+    "id": "D127",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "instruction"
+  },
+  {
+    "id": "D128",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D129",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D130",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "command"
+  },
+  {
+    "id": "D131",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D132",
+    "raw_prompt": "\t如何使用python进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D133",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D134",
+    "raw_prompt": "   编写一个简单的WEB服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D135",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D136",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "question"
+  },
+  {
+    "id": "D137",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "query"
+  },
+  {
+    "id": "D138",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D139",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "command"
+  },
+  {
+    "id": "D140",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D141",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "query"
+  },
+  {
+    "id": "D142",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D143",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D144",
+    "raw_prompt": "???如何使用Git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "command"
+  },
+  {
+    "id": "D145",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D146",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D147",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D148",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "command"
+  },
+  {
+    "id": "D149",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D150",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D151",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D152",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D153",
+    "raw_prompt": "!!编写一个简单的WEB服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "instruction"
+  },
+  {
+    "id": "D154",
+    "raw_prompt": "???解释什么是api???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "command"
+  },
+  {
+    "id": "D155",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "command"
+  },
+  {
+    "id": "D156",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D157",
+    "raw_prompt": "???如何使用GIT进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "request"
+  },
+  {
+    "id": "D158",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D159",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "instruction"
+  },
+  {
+    "id": "D160",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "instruction"
+  },
+  {
+    "id": "D161",
+    "raw_prompt": "\n如何使用GIT进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D162",
+    "raw_prompt": "!!如何使用Python进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "question"
+  },
+  {
+    "id": "D163",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "request"
+  },
+  {
+    "id": "D164",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D165",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D166",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "question"
+  },
+  {
+    "id": "D167",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D168",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "command"
+  },
+  {
+    "id": "D169",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D170",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "question"
+  },
+  {
+    "id": "D171",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D172",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "instruction"
+  },
+  {
+    "id": "D173",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D174",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D175",
+    "raw_prompt": "!!编写一个简单的web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "instruction"
+  },
+  {
+    "id": "D176",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D177",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D178",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D179",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "query"
+  },
+  {
+    "id": "D180",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "query"
+  },
+  {
+    "id": "D181",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D182",
+    "raw_prompt": "???如何使用git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "question"
+  },
+  {
+    "id": "D183",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D184",
+    "raw_prompt": "!!编写一个简单的WEB服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "request"
+  },
+  {
+    "id": "D185",
+    "raw_prompt": "???编写一个简单的web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "question"
+  },
+  {
+    "id": "D186",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D187",
+    "raw_prompt": "!!如何使用Git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D188",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D189",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D190",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D191",
+    "raw_prompt": "  如何使用git进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D192",
+    "raw_prompt": "\n编写一个简单的Web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D193",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D194",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D195",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D196",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D197",
+    "raw_prompt": "  如何使用Git进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D198",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D199",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "command"
+  },
+  {
+    "id": "D200",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D201",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D202",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "instruction"
+  },
+  {
+    "id": "D203",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D204",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "question"
+  },
+  {
+    "id": "D205",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "question"
+  },
+  {
+    "id": "D206",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D207",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D208",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "command"
+  },
+  {
+    "id": "D209",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D210",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D211",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D212",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D213",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D214",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D215",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D216",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D217",
+    "raw_prompt": "\t如何使用python进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D218",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D219",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D220",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D221",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D222",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "question"
+  },
+  {
+    "id": "D223",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D224",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "command"
+  },
+  {
+    "id": "D225",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D226",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D227",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D228",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "question"
+  },
+  {
+    "id": "D229",
+    "raw_prompt": "\t解释什么是api\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D230",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D231",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D232",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "command"
+  },
+  {
+    "id": "D233",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D234",
+    "raw_prompt": "\n如何使用Python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D235",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D236",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D237",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D238",
+    "raw_prompt": "   编写一个简单的Web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D239",
+    "raw_prompt": "   编写一个简单的WEB服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D240",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "instruction"
+  },
+  {
+    "id": "D241",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D242",
+    "raw_prompt": "\n编写一个简单的Web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D243",
+    "raw_prompt": "\t编写一个简单的Web服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D244",
+    "raw_prompt": "???解释什么是api???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "question"
+  },
+  {
+    "id": "D245",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D246",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "query"
+  },
+  {
+    "id": "D247",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D248",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "instruction"
+  },
+  {
+    "id": "D249",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D250",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D251",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "command"
+  },
+  {
+    "id": "D252",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D253",
+    "raw_prompt": "\t如何使用Git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D254",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "command"
+  },
+  {
+    "id": "D255",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D256",
+    "raw_prompt": "!!编写一个简单的web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "instruction"
+  },
+  {
+    "id": "D257",
+    "raw_prompt": "!!如何使用Python进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "query"
+  },
+  {
+    "id": "D258",
+    "raw_prompt": "如何使用python进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D259",
+    "raw_prompt": "   编写一个简单的web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D260",
+    "raw_prompt": "!!如何使用Git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D261",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "request"
+  },
+  {
+    "id": "D262",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D263",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D264",
+    "raw_prompt": "???编写一个简单的Web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "instruction"
+  },
+  {
+    "id": "D265",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D266",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "instruction"
+  },
+  {
+    "id": "D267",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D268",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D269",
+    "raw_prompt": "???解释什么是api???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "request"
+  },
+  {
+    "id": "D270",
+    "raw_prompt": "  编写一个简单的WEB服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D271",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D272",
+    "raw_prompt": "\t解释什么是api\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D273",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "instruction"
+  },
+  {
+    "id": "D274",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D275",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D276",
+    "raw_prompt": "\n如何使用Python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D277",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D278",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D279",
+    "raw_prompt": "\n如何使用PYTHON进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D280",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D281",
+    "raw_prompt": "   如何使用git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D282",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D283",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D284",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D285",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D286",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D287",
+    "raw_prompt": "  编写一个简单的WEB服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D288",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D289",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D290",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D291",
+    "raw_prompt": "???解释什么是API???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "instruction"
+  },
+  {
+    "id": "D292",
+    "raw_prompt": "???如何使用GIT进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "query"
+  },
+  {
+    "id": "D293",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D294",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D295",
+    "raw_prompt": "\n如何使用Git进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D296",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D297",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D298",
+    "raw_prompt": "???如何使用git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "query"
+  },
+  {
+    "id": "D299",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D300",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "query"
+  },
+  {
+    "id": "D301",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D302",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D303",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D304",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D305",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D306",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "command"
+  },
+  {
+    "id": "D307",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "query"
+  },
+  {
+    "id": "D308",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D309",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D310",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D311",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D312",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D313",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D314",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D315",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "query"
+  },
+  {
+    "id": "D316",
+    "raw_prompt": "???如何使用git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "command"
+  },
+  {
+    "id": "D317",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D318",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D319",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D320",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D321",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D322",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "query"
+  },
+  {
+    "id": "D323",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D324",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D325",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D326",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D327",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "request"
+  },
+  {
+    "id": "D328",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "command"
+  },
+  {
+    "id": "D329",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D330",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "question"
+  },
+  {
+    "id": "D331",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "command"
+  },
+  {
+    "id": "D332",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D333",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D334",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D335",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "instruction"
+  },
+  {
+    "id": "D336",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D337",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D338",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "request"
+  },
+  {
+    "id": "D339",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "question"
+  },
+  {
+    "id": "D340",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D341",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D342",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D343",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D344",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "query"
+  },
+  {
+    "id": "D345",
+    "raw_prompt": "   如何使用GIT进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D346",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D347",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D348",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D349",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D350",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "command"
+  },
+  {
+    "id": "D351",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "instruction"
+  },
+  {
+    "id": "D352",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "question"
+  },
+  {
+    "id": "D353",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "request"
+  },
+  {
+    "id": "D354",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D355",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "request"
+  },
+  {
+    "id": "D356",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D357",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D358",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D359",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D360",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D361",
+    "raw_prompt": "   如何使用Git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D362",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D363",
+    "raw_prompt": "???编写一个简单的web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "query"
+  },
+  {
+    "id": "D364",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D365",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "instruction"
+  },
+  {
+    "id": "D366",
+    "raw_prompt": "\t如何使用Python进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "query"
+  },
+  {
+    "id": "D367",
+    "raw_prompt": "  编写一个简单的WEB服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D368",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "request"
+  },
+  {
+    "id": "D369",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D370",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D371",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D372",
+    "raw_prompt": "\t如何使用PYTHON进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D373",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D374",
+    "raw_prompt": "\n如何使用PYTHON进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D375",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D376",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "query"
+  },
+  {
+    "id": "D377",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D378",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D379",
+    "raw_prompt": "   如何使用python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D380",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "instruction"
+  },
+  {
+    "id": "D381",
+    "raw_prompt": "\n如何使用python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D382",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "command"
+  },
+  {
+    "id": "D383",
+    "raw_prompt": "  如何使用Python进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D384",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D385",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "instruction"
+  },
+  {
+    "id": "D386",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D387",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "question"
+  },
+  {
+    "id": "D388",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D389",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D390",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "command"
+  },
+  {
+    "id": "D391",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D392",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D393",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "question"
+  },
+  {
+    "id": "D394",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D395",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D396",
+    "raw_prompt": "\n如何使用Git进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D397",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D398",
+    "raw_prompt": "  编写一个简单的WEB服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D399",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D400",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D401",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D402",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "instruction"
+  },
+  {
+    "id": "D403",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "query"
+  },
+  {
+    "id": "D404",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D405",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D406",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D407",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "instruction"
+  },
+  {
+    "id": "D408",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D409",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D410",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D411",
+    "raw_prompt": "  解释什么是api  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D412",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D413",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D414",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "question"
+  },
+  {
+    "id": "D415",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "instruction"
+  },
+  {
+    "id": "D416",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "instruction"
+  },
+  {
+    "id": "D417",
+    "raw_prompt": "\n如何使用python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D418",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D419",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D420",
+    "raw_prompt": "???如何使用GIT进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "request"
+  },
+  {
+    "id": "D421",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D422",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "query"
+  },
+  {
+    "id": "D423",
+    "raw_prompt": "   编写一个简单的WEB服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D424",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D425",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D426",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "command"
+  },
+  {
+    "id": "D427",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D428",
+    "raw_prompt": "   编写一个简单的Web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D429",
+    "raw_prompt": "\t如何使用Python进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "query"
+  },
+  {
+    "id": "D430",
+    "raw_prompt": "   如何使用PYTHON进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D431",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D432",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D433",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D434",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "query"
+  },
+  {
+    "id": "D435",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "question"
+  },
+  {
+    "id": "D436",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "request"
+  },
+  {
+    "id": "D437",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D438",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "request"
+  },
+  {
+    "id": "D439",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D440",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D441",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D442",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D443",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "request"
+  },
+  {
+    "id": "D444",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "instruction"
+  },
+  {
+    "id": "D445",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D446",
+    "raw_prompt": "???如何使用Python进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "command"
+  },
+  {
+    "id": "D447",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "query"
+  },
+  {
+    "id": "D448",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D449",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D450",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D451",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D452",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D453",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D454",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D455",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D456",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "query"
+  },
+  {
+    "id": "D457",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D458",
+    "raw_prompt": "  编写一个简单的web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D459",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "command"
+  },
+  {
+    "id": "D460",
+    "raw_prompt": "如何使用Python进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D461",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D462",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D463",
+    "raw_prompt": "!!编写一个简单的WEB服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "query"
+  },
+  {
+    "id": "D464",
+    "raw_prompt": "  编写一个简单的web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D465",
+    "raw_prompt": "如何使用git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D466",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D467",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D468",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "query"
+  },
+  {
+    "id": "D469",
+    "raw_prompt": "   编写一个简单的WEB服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D470",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "command"
+  },
+  {
+    "id": "D471",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D472",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D473",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "request"
+  },
+  {
+    "id": "D474",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "query"
+  },
+  {
+    "id": "D475",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D476",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "command"
+  },
+  {
+    "id": "D477",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "query"
+  },
+  {
+    "id": "D478",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D479",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "question"
+  },
+  {
+    "id": "D480",
+    "raw_prompt": "   如何使用git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D481",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D482",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D483",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "request"
+  },
+  {
+    "id": "D484",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D485",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D486",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D487",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D488",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D489",
+    "raw_prompt": "\t解释什么是api\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D490",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D491",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D492",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "question"
+  },
+  {
+    "id": "D493",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "question"
+  },
+  {
+    "id": "D494",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D495",
+    "raw_prompt": "\n编写一个简单的web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D496",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D497",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D498",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D499",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D500",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D501",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D502",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D503",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D504",
+    "raw_prompt": "!!解释什么是api!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "query"
+  },
+  {
+    "id": "D505",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D506",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D507",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "query"
+  },
+  {
+    "id": "D508",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D509",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "query"
+  },
+  {
+    "id": "D510",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D511",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D512",
+    "raw_prompt": "\n解释什么是api\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D513",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D514",
+    "raw_prompt": "!!编写一个简单的Web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "command"
+  },
+  {
+    "id": "D515",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D516",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D517",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D518",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D519",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D520",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D521",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D522",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D523",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D524",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D525",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D526",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D527",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D528",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D529",
+    "raw_prompt": "如何使用git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D530",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D531",
+    "raw_prompt": "\t编写一个简单的Web服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D532",
+    "raw_prompt": "\t编写一个简单的web服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D533",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "question"
+  },
+  {
+    "id": "D534",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D535",
+    "raw_prompt": "如何使用Git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D536",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D537",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D538",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D539",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "instruction"
+  },
+  {
+    "id": "D540",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D541",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "command"
+  },
+  {
+    "id": "D542",
+    "raw_prompt": "\n编写一个简单的web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D543",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D544",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D545",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D546",
+    "raw_prompt": "如何使用Git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D547",
+    "raw_prompt": "???解释什么是api???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "query"
+  },
+  {
+    "id": "D548",
+    "raw_prompt": "!!编写一个简单的WEB服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "question"
+  },
+  {
+    "id": "D549",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D550",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D551",
+    "raw_prompt": "\t解释什么是api\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D552",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D553",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "question"
+  },
+  {
+    "id": "D554",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D555",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D556",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D557",
+    "raw_prompt": "!!编写一个简单的web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "command"
+  },
+  {
+    "id": "D558",
+    "raw_prompt": "   如何使用python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D559",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D560",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "request"
+  },
+  {
+    "id": "D561",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D562",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D563",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "command"
+  },
+  {
+    "id": "D564",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "instruction"
+  },
+  {
+    "id": "D565",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "instruction"
+  },
+  {
+    "id": "D566",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D567",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D568",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "question"
+  },
+  {
+    "id": "D569",
+    "raw_prompt": "???编写一个简单的web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "instruction"
+  },
+  {
+    "id": "D570",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D571",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D572",
+    "raw_prompt": "如何使用Python进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D573",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D574",
+    "raw_prompt": "   编写一个简单的WEB服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D575",
+    "raw_prompt": "!!如何使用Git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "instruction"
+  },
+  {
+    "id": "D576",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D577",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D578",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D579",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D580",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D581",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "command"
+  },
+  {
+    "id": "D582",
+    "raw_prompt": "编写一个简单的web服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D583",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D584",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "request"
+  },
+  {
+    "id": "D585",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D586",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D587",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D588",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D589",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D590",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D591",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D592",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D593",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "command"
+  },
+  {
+    "id": "D594",
+    "raw_prompt": "   编写一个简单的web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D595",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D596",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D597",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "question"
+  },
+  {
+    "id": "D598",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D599",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "command"
+  },
+  {
+    "id": "D600",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "command"
+  },
+  {
+    "id": "D601",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D602",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D603",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D604",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "command"
+  },
+  {
+    "id": "D605",
+    "raw_prompt": "\n解释什么是API\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D606",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D607",
+    "raw_prompt": "\n编写一个简单的web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D608",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D609",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D610",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D611",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D612",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D613",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D614",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D615",
+    "raw_prompt": "   解释什么是api   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D616",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D617",
+    "raw_prompt": "   如何使用PYTHON进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D618",
+    "raw_prompt": "   编写一个简单的Web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D619",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D620",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "request"
+  },
+  {
+    "id": "D621",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D622",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D623",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D624",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D625",
+    "raw_prompt": "!!编写一个简单的Web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "request"
+  },
+  {
+    "id": "D626",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D627",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D628",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "instruction"
+  },
+  {
+    "id": "D629",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "instruction"
+  },
+  {
+    "id": "D630",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "request"
+  },
+  {
+    "id": "D631",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "query"
+  },
+  {
+    "id": "D632",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D633",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D634",
+    "raw_prompt": "  如何使用Python进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D635",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "command"
+  },
+  {
+    "id": "D636",
+    "raw_prompt": "如何使用git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D637",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "instruction"
+  },
+  {
+    "id": "D638",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "command"
+  },
+  {
+    "id": "D639",
+    "raw_prompt": "\t如何使用git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D640",
+    "raw_prompt": "\n解释什么是api\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D641",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D642",
+    "raw_prompt": "!!解释什么是api!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "question"
+  },
+  {
+    "id": "D643",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D644",
+    "raw_prompt": "???解释什么是API???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "instruction"
+  },
+  {
+    "id": "D645",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "request"
+  },
+  {
+    "id": "D646",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D647",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "query"
+  },
+  {
+    "id": "D648",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D649",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D650",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D651",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "instruction"
+  },
+  {
+    "id": "D652",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D653",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "instruction"
+  },
+  {
+    "id": "D654",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D655",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "instruction"
+  },
+  {
+    "id": "D656",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D657",
+    "raw_prompt": "   如何使用Git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D658",
+    "raw_prompt": "   解释什么是api   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D659",
+    "raw_prompt": "   如何使用PYTHON进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D660",
+    "raw_prompt": "   如何使用git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D661",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D662",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D663",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D664",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "instruction"
+  },
+  {
+    "id": "D665",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D666",
+    "raw_prompt": "???如何使用python进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "command"
+  },
+  {
+    "id": "D667",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D668",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D669",
+    "raw_prompt": "\t如何使用Git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D670",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D671",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D672",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D673",
+    "raw_prompt": "   如何使用Python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "query"
+  },
+  {
+    "id": "D674",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "request"
+  },
+  {
+    "id": "D675",
+    "raw_prompt": "\n编写一个简单的Web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D676",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "instruction"
+  },
+  {
+    "id": "D677",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D678",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D679",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D680",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D681",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D682",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D683",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D684",
+    "raw_prompt": "\n如何使用git进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D685",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D686",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D687",
+    "raw_prompt": "编写一个简单的web服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D688",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D689",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D690",
+    "raw_prompt": "\n解释什么是api\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D691",
+    "raw_prompt": "\t如何使用Git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D692",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D693",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "instruction"
+  },
+  {
+    "id": "D694",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D695",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D696",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D697",
+    "raw_prompt": "  如何使用Python进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D698",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D699",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D700",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D701",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D702",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D703",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "request"
+  },
+  {
+    "id": "D704",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D705",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D706",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D707",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D708",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D709",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D710",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D711",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D712",
+    "raw_prompt": "如何使用Git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D713",
+    "raw_prompt": "   如何使用python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D714",
+    "raw_prompt": "\n如何使用git进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D715",
+    "raw_prompt": "   如何使用Git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D716",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D717",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D718",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D719",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "command"
+  },
+  {
+    "id": "D720",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D721",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D722",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D723",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D724",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D725",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D726",
+    "raw_prompt": "   编写一个简单的WEB服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D727",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D728",
+    "raw_prompt": "!!编写一个简单的web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "instruction"
+  },
+  {
+    "id": "D729",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D730",
+    "raw_prompt": "???编写一个简单的web服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "request"
+  },
+  {
+    "id": "D731",
+    "raw_prompt": "\t如何使用PYTHON进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D732",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D733",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "query"
+  },
+  {
+    "id": "D734",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D735",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D736",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D737",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D738",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "request"
+  },
+  {
+    "id": "D739",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D740",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D741",
+    "raw_prompt": "编写一个简单的web服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D742",
+    "raw_prompt": "\n如何使用python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "query"
+  },
+  {
+    "id": "D743",
+    "raw_prompt": "!!编写一个简单的web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "query"
+  },
+  {
+    "id": "D744",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D745",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "question"
+  },
+  {
+    "id": "D746",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D747",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "instruction"
+  },
+  {
+    "id": "D748",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D749",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D750",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D751",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D752",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D753",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D754",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D755",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D756",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D757",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "request"
+  },
+  {
+    "id": "D758",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "question"
+  },
+  {
+    "id": "D759",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "request"
+  },
+  {
+    "id": "D760",
+    "raw_prompt": "   如何使用GIT进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D761",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "instruction"
+  },
+  {
+    "id": "D762",
+    "raw_prompt": "  解释什么是神经网络  ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D763",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D764",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D765",
+    "raw_prompt": "!!编写一个简单的Web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "query"
+  },
+  {
+    "id": "D766",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "query"
+  },
+  {
+    "id": "D767",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "request"
+  },
+  {
+    "id": "D768",
+    "raw_prompt": "  解释什么是云计算  ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D769",
+    "raw_prompt": "\n编写一个简单的Web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D770",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D771",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "query"
+  },
+  {
+    "id": "D772",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D773",
+    "raw_prompt": "!!编写一个简单的Web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "instruction"
+  },
+  {
+    "id": "D774",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "query"
+  },
+  {
+    "id": "D775",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "request"
+  },
+  {
+    "id": "D776",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D777",
+    "raw_prompt": "\n如何使用Python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D778",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "request"
+  },
+  {
+    "id": "D779",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "query"
+  },
+  {
+    "id": "D780",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "instruction"
+  },
+  {
+    "id": "D781",
+    "raw_prompt": "\n如何使用GIT进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D782",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D783",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "request"
+  },
+  {
+    "id": "D784",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D785",
+    "raw_prompt": "   如何使用PYTHON进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D786",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D787",
+    "raw_prompt": "???编写一个简单的WEB服务器???",
+    "cleaned_prompt": "?编写一个简单的web服务器?",
+    "label": "question"
+  },
+  {
+    "id": "D788",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D789",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "request"
+  },
+  {
+    "id": "D790",
+    "raw_prompt": "\n编写一个简单的web服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D791",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D792",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D793",
+    "raw_prompt": "   编写一个简单的Web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D794",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D795",
+    "raw_prompt": "???解释什么是API???",
+    "cleaned_prompt": "?解释什么是api?",
+    "label": "request"
+  },
+  {
+    "id": "D796",
+    "raw_prompt": "???如何使用Git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "request"
+  },
+  {
+    "id": "D797",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D798",
+    "raw_prompt": "   如何使用GIT进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D799",
+    "raw_prompt": "???如何使用Git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "request"
+  },
+  {
+    "id": "D800",
+    "raw_prompt": "???如何使用Git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "instruction"
+  },
+  {
+    "id": "D801",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "command"
+  },
+  {
+    "id": "D802",
+    "raw_prompt": "\t如何使用Git进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D803",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D804",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D805",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D806",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D807",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "request"
+  },
+  {
+    "id": "D808",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "instruction"
+  },
+  {
+    "id": "D809",
+    "raw_prompt": "  编写一个简单的web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D810",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D811",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D812",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D813",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "instruction"
+  },
+  {
+    "id": "D814",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "request"
+  },
+  {
+    "id": "D815",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D816",
+    "raw_prompt": "  如何使用git进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D817",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "query"
+  },
+  {
+    "id": "D818",
+    "raw_prompt": "   编写一个简单的web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "command"
+  },
+  {
+    "id": "D819",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D820",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D821",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "query"
+  },
+  {
+    "id": "D822",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D823",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D824",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D825",
+    "raw_prompt": "!!编写一个简单的WEB服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "command"
+  },
+  {
+    "id": "D826",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D827",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "instruction"
+  },
+  {
+    "id": "D828",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D829",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D830",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D831",
+    "raw_prompt": "编写一个简单的WEB服务器",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D832",
+    "raw_prompt": "???如何使用Git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "request"
+  },
+  {
+    "id": "D833",
+    "raw_prompt": "   如何优化数据库查询   ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D834",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "command"
+  },
+  {
+    "id": "D835",
+    "raw_prompt": "  如何提高代码的可读性  ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D836",
+    "raw_prompt": "  解释什么是api  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D837",
+    "raw_prompt": "   如何使用python进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "instruction"
+  },
+  {
+    "id": "D838",
+    "raw_prompt": "   如何使用git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D839",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D840",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "instruction"
+  },
+  {
+    "id": "D841",
+    "raw_prompt": "!!如何使用python进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "command"
+  },
+  {
+    "id": "D842",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D843",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D844",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "question"
+  },
+  {
+    "id": "D845",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "request"
+  },
+  {
+    "id": "D846",
+    "raw_prompt": "  如何使用GIT进行版本控制  ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D847",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D848",
+    "raw_prompt": "!!编写一个简单的Web服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "command"
+  },
+  {
+    "id": "D849",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D850",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "instruction"
+  },
+  {
+    "id": "D851",
+    "raw_prompt": "如何优化数据库查询",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "request"
+  },
+  {
+    "id": "D852",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D853",
+    "raw_prompt": "!!如何使用GIT进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "question"
+  },
+  {
+    "id": "D854",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "instruction"
+  },
+  {
+    "id": "D855",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D856",
+    "raw_prompt": "!!编写一个简单的WEB服务器!!",
+    "cleaned_prompt": "!编写一个简单的web服务器!",
+    "label": "command"
+  },
+  {
+    "id": "D857",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D858",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "query"
+  },
+  {
+    "id": "D859",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D860",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D861",
+    "raw_prompt": "\n解释什么是api\n",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D862",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D863",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D864",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D865",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D866",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D867",
+    "raw_prompt": "???如何使用python进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "request"
+  },
+  {
+    "id": "D868",
+    "raw_prompt": "\t如何使用Python进行数据分析\t",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D869",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D870",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "question"
+  },
+  {
+    "id": "D871",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D872",
+    "raw_prompt": "  解释什么是机器学习  ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D873",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D874",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "question"
+  },
+  {
+    "id": "D875",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D876",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D877",
+    "raw_prompt": "???如何使用python进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "question"
+  },
+  {
+    "id": "D878",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D879",
+    "raw_prompt": "\t编写一个简单的web服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D880",
+    "raw_prompt": "  解释什么是API  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D881",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D882",
+    "raw_prompt": "  如何使用python进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D883",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D884",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D885",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D886",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "question"
+  },
+  {
+    "id": "D887",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D888",
+    "raw_prompt": "\t解释什么是神经网络\t",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "request"
+  },
+  {
+    "id": "D889",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "instruction"
+  },
+  {
+    "id": "D890",
+    "raw_prompt": "!!如何使用git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "request"
+  },
+  {
+    "id": "D891",
+    "raw_prompt": "\n如何使用python进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D892",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D893",
+    "raw_prompt": "   编写一个简单的web服务器   ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D894",
+    "raw_prompt": "   如何提高代码的可读性   ",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "query"
+  },
+  {
+    "id": "D895",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "query"
+  },
+  {
+    "id": "D896",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "instruction"
+  },
+  {
+    "id": "D897",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "command"
+  },
+  {
+    "id": "D898",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D899",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "command"
+  },
+  {
+    "id": "D900",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "command"
+  },
+  {
+    "id": "D901",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D902",
+    "raw_prompt": "???解释什么是神经网络???",
+    "cleaned_prompt": "?解释什么是神经网络?",
+    "label": "request"
+  },
+  {
+    "id": "D903",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D904",
+    "raw_prompt": "!!如何优化数据库查询!!",
+    "cleaned_prompt": "!如何优化数据库查询!",
+    "label": "instruction"
+  },
+  {
+    "id": "D905",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D906",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D907",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "request"
+  },
+  {
+    "id": "D908",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D909",
+    "raw_prompt": "解释什么是云计算",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D910",
+    "raw_prompt": "???解释什么是机器学习???",
+    "cleaned_prompt": "?解释什么是机器学习?",
+    "label": "query"
+  },
+  {
+    "id": "D911",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D912",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "query"
+  },
+  {
+    "id": "D913",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D914",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D915",
+    "raw_prompt": "\t编写一个简单的WEB服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D916",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D917",
+    "raw_prompt": "  如何优化数据库查询  ",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "query"
+  },
+  {
+    "id": "D918",
+    "raw_prompt": "解释什么是神经网络",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "query"
+  },
+  {
+    "id": "D919",
+    "raw_prompt": "如何使用python进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D920",
+    "raw_prompt": "???解释什么是云计算???",
+    "cleaned_prompt": "?解释什么是云计算?",
+    "label": "request"
+  },
+  {
+    "id": "D921",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D922",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "query"
+  },
+  {
+    "id": "D923",
+    "raw_prompt": "???编写一个计算斐波那契数列的函数???",
+    "cleaned_prompt": "?编写一个计算斐波那契数列的函数?",
+    "label": "query"
+  },
+  {
+    "id": "D924",
+    "raw_prompt": "!!如何使用Git进行版本控制!!",
+    "cleaned_prompt": "!如何使用git进行版本控制!",
+    "label": "query"
+  },
+  {
+    "id": "D925",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "request"
+  },
+  {
+    "id": "D926",
+    "raw_prompt": "   如何使用GIT进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "request"
+  },
+  {
+    "id": "D927",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "request"
+  },
+  {
+    "id": "D928",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D929",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "request"
+  },
+  {
+    "id": "D930",
+    "raw_prompt": "!!编写一个计算斐波那契数列的函数!!",
+    "cleaned_prompt": "!编写一个计算斐波那契数列的函数!",
+    "label": "command"
+  },
+  {
+    "id": "D931",
+    "raw_prompt": "???如何使用Git进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "instruction"
+  },
+  {
+    "id": "D932",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D933",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D934",
+    "raw_prompt": "\t编写一个简单的web服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D935",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D936",
+    "raw_prompt": "!!解释什么是神经网络!!",
+    "cleaned_prompt": "!解释什么是神经网络!",
+    "label": "query"
+  },
+  {
+    "id": "D937",
+    "raw_prompt": "  解释什么是api  ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D938",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D939",
+    "raw_prompt": "   解释什么是API   ",
+    "cleaned_prompt": "解释什么是api",
+    "label": "request"
+  },
+  {
+    "id": "D940",
+    "raw_prompt": "\t如何使用GIT进行版本控制\t",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D941",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D942",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D943",
+    "raw_prompt": "   如何使用PYTHON进行数据分析   ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D944",
+    "raw_prompt": "如何使用Python进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D945",
+    "raw_prompt": "!!如何使用PYTHON进行数据分析!!",
+    "cleaned_prompt": "!如何使用python进行数据分析!",
+    "label": "instruction"
+  },
+  {
+    "id": "D946",
+    "raw_prompt": "\n解释什么是云计算\n",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D947",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D948",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D949",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D950",
+    "raw_prompt": "\n如何使用git进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "command"
+  },
+  {
+    "id": "D951",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "request"
+  },
+  {
+    "id": "D952",
+    "raw_prompt": "\n如何使用GIT进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D953",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D954",
+    "raw_prompt": "\t解释什么是API\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "instruction"
+  },
+  {
+    "id": "D955",
+    "raw_prompt": "\n编写一个简单的WEB服务器\n",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "query"
+  },
+  {
+    "id": "D956",
+    "raw_prompt": "???如何优化数据库查询???",
+    "cleaned_prompt": "?如何优化数据库查询?",
+    "label": "question"
+  },
+  {
+    "id": "D957",
+    "raw_prompt": "\t编写一个计算斐波那契数列的函数\t",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D958",
+    "raw_prompt": "\t编写一个简单的Web服务器\t",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "instruction"
+  },
+  {
+    "id": "D959",
+    "raw_prompt": "!!解释什么是云计算!!",
+    "cleaned_prompt": "!解释什么是云计算!",
+    "label": "query"
+  },
+  {
+    "id": "D960",
+    "raw_prompt": "   解释什么是云计算   ",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "query"
+  },
+  {
+    "id": "D961",
+    "raw_prompt": "\n如何优化数据库查询\n",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "command"
+  },
+  {
+    "id": "D962",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D963",
+    "raw_prompt": "???如何使用PYTHON进行数据分析???",
+    "cleaned_prompt": "?如何使用python进行数据分析?",
+    "label": "command"
+  },
+  {
+    "id": "D964",
+    "raw_prompt": "!!解释什么是API!!",
+    "cleaned_prompt": "!解释什么是api!",
+    "label": "command"
+  },
+  {
+    "id": "D965",
+    "raw_prompt": "\n解释什么是机器学习\n",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D966",
+    "raw_prompt": "\n解释什么是神经网络\n",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "command"
+  },
+  {
+    "id": "D967",
+    "raw_prompt": "\n如何使用Git进行版本控制\n",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D968",
+    "raw_prompt": "如何提高代码的可读性",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "question"
+  },
+  {
+    "id": "D969",
+    "raw_prompt": "!!如何提高代码的可读性!!",
+    "cleaned_prompt": "!如何提高代码的可读性!",
+    "label": "command"
+  },
+  {
+    "id": "D970",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "request"
+  },
+  {
+    "id": "D971",
+    "raw_prompt": "???如何提高代码的可读性???",
+    "cleaned_prompt": "?如何提高代码的可读性?",
+    "label": "question"
+  },
+  {
+    "id": "D972",
+    "raw_prompt": "  编写一个计算斐波那契数列的函数  ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D973",
+    "raw_prompt": "\t解释什么是云计算\t",
+    "cleaned_prompt": "解释什么是云计算",
+    "label": "question"
+  },
+  {
+    "id": "D974",
+    "raw_prompt": "\t解释什么是api\t",
+    "cleaned_prompt": "解释什么是api",
+    "label": "question"
+  },
+  {
+    "id": "D975",
+    "raw_prompt": "  编写一个简单的Web服务器  ",
+    "cleaned_prompt": "编写一个简单的web服务器",
+    "label": "question"
+  },
+  {
+    "id": "D976",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "instruction"
+  },
+  {
+    "id": "D977",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "instruction"
+  },
+  {
+    "id": "D978",
+    "raw_prompt": "解释什么是机器学习",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "command"
+  },
+  {
+    "id": "D979",
+    "raw_prompt": "  如何使用PYTHON进行数据分析  ",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "question"
+  },
+  {
+    "id": "D980",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  },
+  {
+    "id": "D981",
+    "raw_prompt": "\n编写一个计算斐波那契数列的函数\n",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "query"
+  },
+  {
+    "id": "D982",
+    "raw_prompt": "\n如何使用PYTHON进行数据分析\n",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "command"
+  },
+  {
+    "id": "D983",
+    "raw_prompt": "如何使用Git进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "question"
+  },
+  {
+    "id": "D984",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "question"
+  },
+  {
+    "id": "D985",
+    "raw_prompt": "   编写一个计算斐波那契数列的函数   ",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "question"
+  },
+  {
+    "id": "D986",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "instruction"
+  },
+  {
+    "id": "D987",
+    "raw_prompt": "   解释什么是机器学习   ",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "request"
+  },
+  {
+    "id": "D988",
+    "raw_prompt": "如何使用PYTHON进行数据分析",
+    "cleaned_prompt": "如何使用python进行数据分析",
+    "label": "request"
+  },
+  {
+    "id": "D989",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "question"
+  },
+  {
+    "id": "D990",
+    "raw_prompt": "\n如何提高代码的可读性\n",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "instruction"
+  },
+  {
+    "id": "D991",
+    "raw_prompt": "\t如何提高代码的可读性\t",
+    "cleaned_prompt": "如何提高代码的可读性",
+    "label": "command"
+  },
+  {
+    "id": "D992",
+    "raw_prompt": "\t如何优化数据库查询\t",
+    "cleaned_prompt": "如何优化数据库查询",
+    "label": "question"
+  },
+  {
+    "id": "D993",
+    "raw_prompt": "???如何使用GIT进行版本控制???",
+    "cleaned_prompt": "?如何使用git进行版本控制?",
+    "label": "query"
+  },
+  {
+    "id": "D994",
+    "raw_prompt": "解释什么是API",
+    "cleaned_prompt": "解释什么是api",
+    "label": "query"
+  },
+  {
+    "id": "D995",
+    "raw_prompt": "!!解释什么是机器学习!!",
+    "cleaned_prompt": "!解释什么是机器学习!",
+    "label": "question"
+  },
+  {
+    "id": "D996",
+    "raw_prompt": "\t解释什么是机器学习\t",
+    "cleaned_prompt": "解释什么是机器学习",
+    "label": "query"
+  },
+  {
+    "id": "D997",
+    "raw_prompt": "编写一个计算斐波那契数列的函数",
+    "cleaned_prompt": "编写一个计算斐波那契数列的函数",
+    "label": "command"
+  },
+  {
+    "id": "D998",
+    "raw_prompt": "   如何使用Git进行版本控制   ",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "instruction"
+  },
+  {
+    "id": "D999",
+    "raw_prompt": "   解释什么是神经网络   ",
+    "cleaned_prompt": "解释什么是神经网络",
+    "label": "question"
+  },
+  {
+    "id": "D1000",
+    "raw_prompt": "如何使用GIT进行版本控制",
+    "cleaned_prompt": "如何使用git进行版本控制",
+    "label": "query"
+  }
+]

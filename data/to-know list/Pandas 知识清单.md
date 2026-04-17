@@ -225,4 +225,3 @@ df["prompt"] = "用户问题：" + df["question"]
 # 导出
 df.to_csv("prompt_data.csv", index=False)
 ```
-> （注：文档部分内容可能由 AI 生成）

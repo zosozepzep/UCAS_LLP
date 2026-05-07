@@ -23,3 +23,6 @@ LLP_Docs/.claude/
 LLP_Docs/copilot/
 LLP_Docs/.obsidian/plugins/
 .obsidian/
+.claude/
+.copilot/
+.codex/

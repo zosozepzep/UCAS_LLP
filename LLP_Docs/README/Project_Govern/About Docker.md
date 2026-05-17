@@ -6,14 +6,29 @@ Docker 是一种领先的容器化技术，它能够将应用程序及其依赖�
 ---
 
 # Docker教程
-* [Docker实战攻略](https://www.bilibili.com/video/BV1THKyzBER6/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64) # 本教程包含如何将Docker安装到D盘
-* [Docker零基础上手](https://www.bilibili.com/video/BV1q7i9BTE4N/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64)
-* [Docker Docs](https://docs.docker.com/)
+* [Docker安装+镜像加速]( https://www.bilibili.com/video/BV1xHA3euEcn/?share_source=copy_web&vd_source=256ad1d02e285d08be28a97a13050b64)
+* 注意：以下操作建议全程开启代理
+* 安装命令：
+	* 在docker安装包所在的文件夹中，打开powershell
+	* 输入`"Docker Desktop Installer.exe"  install --installation-dir="D:\Docker`
+	* 等待安装成功
+* 安装wsl：
+	* 前置条件按照视频操作
+	* `wsl --update`
+	* `wsl --set-default-version 2`
+	* `wsl --install -d Ubuntu-22.04`
+	* 安装完成后，输入并确定Ubuntu的账号密码
+	* 注意：此时wsl默认启动项为docker，要将其修改为ubuntu：
+		* `exit`
+		* `wsl -l -v` #  确认Ubuntu版本
+		* `wsl --setdefault Ubuntu-22.04`
+* 操作完毕后，按照视频教程，配置代理（如果没有代理，则配置镜像源） ，修改镜像安装位置
 * ps:安装Ubuntu时，建议大家用22.04或20.04的LTS，最新的24.04可能存在不兼容问题
 
 ---
 
 # Docker常用资源
+* * [Docker Docs](https://docs.docker.com/)
 * [Docker Hub](https://hub.docker.com/)
 * [Previous PyTorch Versions](https://pytorch.org/get-started/previous-versions/)
 * [50系显卡一定要用preview！！！](https://pytorch.org/get-started/locally/)

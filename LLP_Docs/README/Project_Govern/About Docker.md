@@ -15,6 +15,9 @@ Docker 是一种领先的容器化技术，它能够将应用程序及其依赖�
 * 安装wsl：
 	* 前置条件按照视频操作
 	* `wsl --update`
+		* 如果代理没问题，但进度一直为0，请按如下操作：
+			* 按`Win+R`，输入`wsreset.exe`,回车，清理微软商店缓存
+			* 按`Win+R`，输入`services.msc`,回车，找到 **Windows Update(或更新)** 服务，双击确保其“启动类型”不是“禁用”，并点击“启动”让它处于运行状态，并将启动类型改为自动。
 	* `wsl --set-default-version 2`
 	* `wsl --install -d Ubuntu-22.04`
 	* 安装完成后，输入并确定Ubuntu的账号密码

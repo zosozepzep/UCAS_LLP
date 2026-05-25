@@ -26,3 +26,12 @@ LLP_Docs/.obsidian/plugins/
 .claude/
 .copilot/
 .codex/
+
+# 忽略 models/lora_demo 下的实验结果
+models/lora_demo/results/*
+!models/lora_demo/results/.gitkeep
+models/lora_demo/lora_adapter/*
+!models/lora_demo/lora_adapter/.gitkeep
+models/lora_demo/lora_adapter_chat/*
+!models/lora_demo/lora_adapter_chat/.gitkeep
+

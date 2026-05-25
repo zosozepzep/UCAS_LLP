@@ -35,3 +35,5 @@ models/lora_demo/lora_adapter/*
 models/lora_demo/lora_adapter_chat/*
 !models/lora_demo/lora_adapter_chat/.gitkeep
 
+LLP_Docs/汇报稿_2026年5月25日.md
+CLAUDE.md
